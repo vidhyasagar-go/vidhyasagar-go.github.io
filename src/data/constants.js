@@ -230,7 +230,7 @@ export const education = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbg7OOiLOsOnOxkAKd0OrrjdEBGj5F96tAs55PlrftpKQTU8_6jlc-IaUNy8eD7GS_pmc&usqp=CAU",
-    school: "Saint Peters Universityr",
+    school: "Saint Peters University",
     date: "Sep 2023 - May 2025",
     grade: "3.9/4 GPA",
     desc: "Located in Jersey City, New Jersey, Saint Peter’s University offers a rigorous graduate program emphasizing hands-on learning, research, and real-world application. The curriculum focuses on advanced computing concepts, data analysis, cloud technologies, and problem-solving strategies to prepare students for dynamic tech careers. Engaged in projects and coursework that enhanced technical expertise, critical thinking, and professional development.",
